@@ -15,6 +15,8 @@ A collection of interactive computer vision applications built with OpenCV, Medi
 
 6.Face Landmark Detection: Identify and map facial landmarks
 
+7.Pose Estimator: Identify and map body landmarks
+
 # Key learnings:->
 
 Computer Vision Fundamentals,
